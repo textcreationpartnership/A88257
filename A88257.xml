@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To every individuall member of the supreme authority of the Parliament of the Commonwealth of England, but more especially to Colonell George Thompson chairman to the committee for regulating the new import of excise, and particularly for that of sope The humble addresse of Lieutenant Coll. John Lilburne, a freeman of the Common-wealth of England.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88257</idno>
+            <idno type="STC">Wing L2185</idno>
+            <idno type="STC">Thomason 669.f.15[64]</idno>
+            <idno type="STC">ESTC R212055</idno>
+            <idno type="EEBO-CITATION">99870708</idno>
+            <idno type="PROQUEST">99870708</idno>
+            <idno type="VID">163138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163138)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To every individuall member of the supreme authority of the Parliament of the Commonwealth of England, but more especially to Colonell George Thompson chairman to the committee for regulating the new import of excise, and particularly for that of sope The humble addresse of Lieutenant Coll. John Lilburne, a freeman of the Common-wealth of England.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>Thompson, George, 17th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 7th 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walker, John, fl. 1650 --  Early works to 1800.</term>
+               <term>Soap trade --  England --  Early works to 1800.</term>
+               <term>Excise tax --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163138:1" rendition="simple:additions"/>
+            <head>To every individuall Member of the ſupreme authority of the Parliament of the <hi>Commonwealth</hi> of <hi>England,</hi> but more eſpecially to Colonell <hi>George Thompſon</hi> Chairman to the Committee for regulating the new Impoſt of Exciſe, and particularly for that of SOPE:</head>
+            <head type="sub">The humble Addreſſe of Lieutenant Coll. <hi>John Lilburne,</hi> a Freeman of the Common-wealth of England.</head>
+            <opener>With all humility and reſpect humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat upon the Sope-makers late Petition to this honorable Houſe, for the eaſe of their grie<g ref="char:EOLhyphen"/>vances therein complained of; Your Houſe were pleaſed to refer it to the Conſideration of the foreſaid Committee, where Colonel <hi>Thomſon</hi> hath the Chair; Upon the hearing of which there; ſeveral Propoſitions and printed papers have been preſented to the Honorable Parlia<g ref="char:EOLhyphen"/>ment, and particularly, Some conſiderations of the ſaid Sope-makers, were preſented to the Honorable, The Parliament of <hi>England,</hi> upon the 5. of this inſtant, with the hands of Alder<g ref="char:EOLhyphen"/>man <hi>John Hayes</hi> and 19. more of the ſaid Sope-makers thereunto annexed: in anſwer unto which was preſent<g ref="char:EOLhyphen"/>ed the next day after, a paper ſubſcribed by one <hi>John Walker</hi> a Sope-maker, living in <hi>White-Chappel;</hi> at the concluſion of which he hath theſe very words, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>There is a great Report about</hi> London, <hi>that ſome of the eminent Subſcribers report, that I</hi> (the ſaid JOHN WALKER) <hi>ought to come and preſent my Propoſals, Quaeres, and Conſiderations with a halter about my neck, to which I</hi> (the ſaid JOHN WALKER) <hi>reply, it was a Cuſtome among the</hi> Lacedemonians <hi>made ſo by</hi> Licurgus, <hi>that if any man preſented any thing to the Senate, they came with halters about there necks, ſignify<g ref="char:EOLhyphen"/>ing, that if any thing was preſented prejudicial to the common-wealth, the party was executed; if it was approved by the Council he had a Chain given him; to which if any Subſcriber</hi> EQVAL TO ME, <hi>ſhall be ſo contented, I willingly will ſubmit to it, and leave it to the judgment of this great Council to give to each of us his demerit; my conſcience bearing me witneſs that if there be any Error in my</hi> PAPERS <hi>it is</hi> Reipublicae error amoris, <hi>not</hi> Amor erroris, <hi>to the Common-wealth an error of love, not love of error.</hi>
+            </p>
+            <p>To which, with all humility I crave leave from your Honors favour, to joyne iſſue with the ſaid <hi>John Walker,</hi> provided I may but a little enquire and digg into what he means by thoſe words in his foregoing propoſal, viz. <hi>EQ<g ref="char:V">Ʋ</g>AL TO HIM.</hi>
+            </p>
+            <p>To which I Querie, if by <hi>Equal to him</hi> he means one, <hi>That was a Silkman and afterwards broke;</hi> as he him<g ref="char:EOLhyphen"/>ſelf confeſt to Mr. <hi>Thomas Pulteney</hi> he did, at that time when he ſaid unto him, <hi>That a broken Silkman would make a good Sope-boyler;</hi> I confeſs amongſt the Subſcribers I know none ſuch to <hi>Equal him.</hi> Or,</p>
+            <p>Secondly, if by <hi>one Equall to him,</hi> he means ſuch a one, as after his being a Silkman broke, and after that turn'd Sope-boiler, and then being too haſty of being rich before his time, turned Ingroſſer of all or moſt of the Potaſhes, about a year or two agoe, that he and his partners could ingroſs into their hands, in and about the City of <hi>London;</hi> by the falling of which they juſtly loſt divers Thouſands of Pounds; which gave <hi>John Walker</hi> ſuch a ſecond pull, as that it made him (as Alderman <hi>Hayes</hi> informs me) confeſs to Major <hi>Brett</hi> (one of his Creditors) that now he is not worth a groat: And if by <hi>equal to him</hi> he means ſuch a one, I know no ſuch amongſt the foreſaid Subſcribers. Or,</p>
+            <p>Thirdly, if by <hi>Equall to him,</hi> he means ſuch a one as hath been an open profeſſed notorious Royal Malig<g ref="char:EOLunhyphen"/>nant Cavalier, as <hi>John Walker</hi> hath been, and an active underminer (upon the late Kings ſcore) of all the Parlia<g ref="char:EOLhyphen"/>ments proceedings for about 8. years together; yea, and one ſo full of Zeal therefore, that it led him in the nature of a Spie or Inteligencer to travel from <hi>London</hi> to <hi>Oxford,</hi> and other parts of the Kings Quarters: for which as a Traitor he was (as Alderman <hi>John Hayes</hi> informs me) clapt in the Tower about the year 1643. and had like therefore to have been hanged by the Councell of War then ſitting at <hi>Guild Hall:</hi> If by <hi>his Equall</hi> in theſe particulars, he means ſuch a one, I know none ſuch amongſt the Subſcribers. Or,</p>
+            <p>Fourthly, if by <hi>Equall</hi> to him, he means ſuch a one as himſelf is, who (as the foreſaid Alderman <hi>John Hayes</hi> ſaith he will juſtifie and prove him to be) managed the Petition of ſeveral perſons in and about <hi>London,</hi> and was their active mouth at the Bar of the Common Councell, when the Petition was preſented for the Con<g ref="char:EOLhyphen"/>junction of all the Suburbs Militia's to that of <hi>London,</hi> which was then lookt upon by the Parliament and Ar<g ref="char:EOLhyphen"/>my, as a Plotted Deſigne, to cut the throats of all thoſe commonly called Zealouſly well affected in Parliament, City, and Army<g ref="char:punc">▪</g> I know no ſuch <hi>Equall to him,</hi> amongſt us. Or,</p>
+            <p>Fiftly, if by <hi>his Equall,</hi> he means one that liſted men privatly upon the late Kings ſcore, on purpoſe to cut the Parliament and Army's throats, about the time of the laſt <hi>Hambletonian</hi> Invaſion, as the ſaid <hi>John Walker</hi> did a Cooper and others in <hi>White Chappel,</hi> and made him or them drunk to boot, as the ſaid Cooper hath confeſſed to a friend of mine, who avowes that the ſaid Cooper is ready to juſtifie it; We have no ſuch <hi>Equall to him,</hi> in this particular that I know of amongſt us Subſcribers.</p>
+            <p>But laſtly, if by <hi>Equal to him</hi> (although upon equal terms, I ſhould abhorr &amp; abominate my ſelf to compare my ſelf to ſo worthleſs a fellow) he means, a man as much an honeſt man, as he is a knave; or a man as much a true Parliamenteer, upon their own conſtant declared Principles, as he is a Royall or Regall malignant Cavaleer; or a man that dare be as valiant for a Good Cauſe, as he dare for his life be for a Wicked: I doe hereby throw him the Gantlet, and Declare my ſelf in this ſenſe to be <hi>his Equall;</hi> And upon that ſcore, do humbly and ſub<g ref="char:EOLhyphen"/>miſſively Propoſe to the Parliament, That if upon the reading and Debate hereof, they pleaſe to paſs an Order that upon ſuch a Day as they pleaſe to appoint, that my ſelf and the ſaid <hi>John Walker,</hi> ſhall each of us (with a Halter about our necks) appear at their Barr, I will face to face undertake by dint of Argument and Reaſon to maintain, There is more peace, quietneſſe, juſtice, honeſty, profit and benefit to the State in the Propoſals of the <hi>Sopemakers</hi> Petition, and Anſwer to his and his thrice broken brother <hi>Booths</hi> Propoſals, and the foremen<g ref="char:EOLhyphen"/>tioned printed Conſiderations preſented to the Parliament-members, upon the 5 of this inſtant <hi>November,</hi> then there is in all or any of his printed Propoſals or papers; and the iſſue of this (totally to end the controverſie) I wil and do to the utmoſt extent of life and death hereby put upon the Vote and judgement of the Houſe. In wit<g ref="char:EOLhyphen"/>neſs whereof I have hereunto put my hand this 6. of <hi>November</hi> 1650. provided we may each of us have the nomination of a Shorthand-writer to take the arguments as exactly as they can, that paſſeth at the Bar betwixt him and</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>Nou: 7<hi rend="sup">.th.</hi> 1650</add>
+                  </date>
+               </dateline> 
+               <signed>John Lilburne.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
